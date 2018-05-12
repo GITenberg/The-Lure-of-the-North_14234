@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1256
     wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
 description: Published in England under the title Agatha's Fortune
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14234#The-Lure-of-the-North
 gutenberg_issued: '2004-12-02'
 gutenberg_type: Text
 identifiers:
